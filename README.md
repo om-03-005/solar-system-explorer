@@ -48,8 +48,8 @@ A clean and interactive visualization of the solar system where users can explor
 
 ## 👤 Author
 
-**Om Darade**  
-Frontend Developer (Beginner)  
+Om Narayan Darade
+Frontend Developer 
 GitHub: [om-03-005](https://github.com/om-03-005)
 
 ---
